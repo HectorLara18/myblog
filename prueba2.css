@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: aqua;
+    width: 100vw;
+    height: 20vh;
+}
+
+.main1 {
+    background-color: brown;
+    width: 70vw;
+    height: 70vh;
+    float: right;
+}
+
+.main2 {
+    background-color: chartreuse;
+    width: 30vw;
+    height: 70vh;
+}
+
+footer {
+    background-color: crimson;
+    width: 100vw;
+    height: 20vh;
+}
