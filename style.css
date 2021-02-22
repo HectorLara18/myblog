@@ -12,7 +12,7 @@ html {
 
 .index-header__titulo {
     display: flexbox;
-    width: 98vw;
+    width: 100vw;
     border: 3px;
     border-radius: 1px;
     text-align: center;
@@ -20,13 +20,13 @@ html {
     background-color: #2A6EBF;
     border-color: #60a8fa;
     color: #eee;
-    margin: auto;
+    margin: 0px;
     padding: 3px;
     left: auto;
 }
 
 .index-header__menu{
-    width: 98vw;
+    width: 100vw;
     margin: 0px 0px;
     background-color: #333;
     border-radius: 1px;
